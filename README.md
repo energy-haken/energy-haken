@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi i'm Haken,  My real name is Nathan
+
+I'm a french student in developpement 
 
 <!--
 **energy-haken/energy-haken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
