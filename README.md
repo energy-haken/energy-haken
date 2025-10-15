@@ -4,7 +4,7 @@ I'm a french student in developpement
 
 ### My CV
 
-![CV2025Dark.png](https://github.com/energy-haken/energy-haken/blob/main/CV2025%20DARK.pdf)
+![CV2025Dark.png](CV2025DARK.png)
 
 <!--
 **energy-haken/energy-haken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
